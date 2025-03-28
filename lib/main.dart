@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
       ),
       // The starting page of the app
       home: const MainView(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
