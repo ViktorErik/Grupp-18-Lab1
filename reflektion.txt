@@ -1,0 +1,10 @@
+Programmet är en enkel todo-app med mycket enkel funktionalitet. 
+För att göra programmet mer anpassningsbart och flexibelt hade man kunnat lägga
+till t.ex. så att man kan ordna todos:en i den ordning man vill ha. Det hade också 
+varit mycket användbart om man hade kunnat ändra "namn" på de todos man redan
+har. Dessutom hade man kanske kunnat lägga till så att det finns någon slags
+historik där man kan se tidigare todos som man har tagit bort. Annars är det
+ett enkelt UI som har de viktigaste funktionerna man förväntar sig av en 
+todo-app. Det är dessutom intuitivt hur man använder de funktioner som finns, 
+t.ex. eftersom det är en tom cirkel förstår användaren att man kan klicka
+i den för att markera den som done.
