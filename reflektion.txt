@@ -7,4 +7,5 @@ historik där man kan se tidigare todos som man har tagit bort. Annars är det
 ett enkelt UI som har de viktigaste funktionerna man förväntar sig av en 
 todo-app. Det är dessutom intuitivt hur man använder de funktioner som finns, 
 t.ex. eftersom det är en tom cirkel förstår användaren att man kan klicka
-i den för att markera den som done.
+i den för att markera den som done. Man skulle även kunna lägga till datum så 
+att man vet när man ska vara klar med todos, och kunna sortera efter datum
